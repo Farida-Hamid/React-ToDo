@@ -8,5 +8,5 @@ root.render(
   <React.StrictMode>
     <App />
     <TodosList />
-  </React.StrictMode>
+  </React.StrictMode>,
 );
